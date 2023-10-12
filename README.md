@@ -35,6 +35,7 @@ dan packages 2 dengan nama DataApotek dengan interface bernama Obat dan 2 class 
 ![image](https://github.com/asantiap/posttest2-pbo/assets/121863819/93171e20-bbb5-4dda-9476-9e41dbe67f47)
 ### 3. Edit Obat
 **user hanya bisa mengedit harga dan stok obat saja**
+
 ![image](https://github.com/asantiap/posttest2-pbo/assets/121863819/460c60c0-cc22-4014-82eb-31079e380537)
 ### 4. Hapus
 ![image](https://github.com/asantiap/posttest2-pbo/assets/121863819/608fb882-2b97-487e-8678-ff0b6266911f)
