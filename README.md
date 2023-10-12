@@ -24,4 +24,19 @@ dan packages 2 dengan nama DataApotek dengan interface bernama Obat dan 2 class 
 ![image](https://github.com/asantiap/posttest2-pbo/assets/121863819/8690aad6-ee79-4aa6-9ac7-d0783296ea22)
 
 ### 4. Penjelasan Source code di class ObatTablet
+**penjelasan source code class ini kurang kebih seperti penjelasan sourcecode di class ObatCair, karena class ini sudah terhubung pada interface Obat**
+![image](https://github.com/asantiap/posttest2-pbo/assets/121863819/78cac197-f03c-4a34-8a79-0d15c3272684)
+![image](https://github.com/asantiap/posttest2-pbo/assets/121863819/0fc3413c-9cf5-43fc-accb-74cddf9cb604)
+
+## DOKUMENTASI OUTPUT
+### 1. Tambah obat
+![image](https://github.com/asantiap/posttest2-pbo/assets/121863819/5ebbf72c-b934-4587-8c4b-6cbd8a5f0ac6)
+### 2. Lihat atau tampilkan Obat
+![image](https://github.com/asantiap/posttest2-pbo/assets/121863819/93171e20-bbb5-4dda-9476-9e41dbe67f47)
+### 3. Edit Obat
+**user hanya bisa mengedit harga dan stok obat saja**
+![image](https://github.com/asantiap/posttest2-pbo/assets/121863819/460c60c0-cc22-4014-82eb-31079e380537)
+### 4. Hapus
+![image](https://github.com/asantiap/posttest2-pbo/assets/121863819/608fb882-2b97-487e-8678-ff0b6266911f)
+
 
